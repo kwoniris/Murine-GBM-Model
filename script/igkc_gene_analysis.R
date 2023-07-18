@@ -4,6 +4,10 @@
 ### Goal: Finding genes with similar vs opposite gene expression to Igkc 
 ### Data: 4 sample murine GBM model dataset 
 
+### PACKAGES ### 
+    ## load the tidyverse package, which includes ggplot2 for visualization
+    library(tidyverse)
+
 ### DATA ###
     ## set working directory 
     setwd("~/Desktop/Projects/Murine-GBM-Model")
@@ -43,7 +47,6 @@
 
 ### IGKC Gene ###
     ## getting the gene expression for Igkc gene 
-
     ## set our gene of interest to Igkc 
     i = 'Igkc'
     ## plot normalized Igkc expression with log10 
