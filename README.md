@@ -16,7 +16,7 @@ Using statistical analyses and data visualization, we attempted to explore this 
 
 ### Analyses
 
-Multiple statistical analyses were performed, including: 
+Along with general spatial transcriptomics data analysis, multiple statistical analyses were performed, including: 
 
 - Pearson Correlation 
 - Spearman Correlation 
