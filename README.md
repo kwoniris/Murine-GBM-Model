@@ -1,12 +1,9 @@
-# 4 Sample GBM Murine Model Data Analysis
+# Differential Gene Analysis on 4 Sample GBM Murine Model Dataset
 
 Iris Kwon
 
 July, 2023
 
-#### Description
-
-Repository for differential gene analysis on the data set of 4 murine GBM samples.
 
 ### Data
 
