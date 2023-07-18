@@ -1,4 +1,4 @@
-# 4 Sample GBM Murine Model Differential Gene Analysis  
+# GBM Murine Model Differential Gene Analysis  
 
 JEFworks Lab Summer Project
 
