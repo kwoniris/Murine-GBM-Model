@@ -20,7 +20,7 @@ Multiple statistical analyses were performed, including:
 
 - Pearson Correlation 
 - Spearman Correlation 
-- 2-sample t-tests (one-sided) 
+- One-sided 2-sample t-test 
 - Wilcox Rank-Sum Test 
 - Fold change 
 
