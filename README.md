@@ -1,8 +1,11 @@
 # 4 Sample GBM Murine Model Differential Gene Analysis  
 
-Iris Kwon
+JEFworks Lab Summer Project
 
-July, 2023
+Author: Iris Kwon
+
+Date: July, 2023
+
 
 
 ### Data
