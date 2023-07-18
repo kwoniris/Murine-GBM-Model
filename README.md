@@ -1,4 +1,4 @@
-# Differential Gene Analysis on 4 Sample GBM Murine Model Dataset
+# 4 Sample GBM Murine Model Differential Gene Analysis  
 
 Iris Kwon
 
