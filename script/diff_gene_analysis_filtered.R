@@ -3,11 +3,10 @@
 ### @date 07-18-2023 (last updated)
 
 ### DATA ###
-    ## set wd 
-    setwd('/Users/seeunkwon/Desktop/Research/JEFworks Lab/GBM_Mouse_Model')
     ## load relevant packages
     library(tidyverse)
-
+    ## set wd
+    setwd('/Users/seeunkwon/Desktop/Projects/Murine-GBM-Model/data')
     ## load data
     load(file="stdeconvolve_resultsall_sansmito_n13_for_iris.RData")
     
